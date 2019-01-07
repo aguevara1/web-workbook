@@ -4,3 +4,18 @@ body {
   font-family: 'Arsenal', sans-serif;
   background-color: lightblue;
 }
+
+.intro{
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.myInfo{
+
+margin-left: 2%;
+width:70%;
+
+}
